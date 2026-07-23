@@ -52,15 +52,15 @@ For my SolidWorks designs, mechanical simulations, embedded systems, and robotic
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════════════════╗
+╔═════════════════════════════════════════════════════════════════════╗
 ║                        🤖 ENGINEERING CORE                          ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║      ⚡ Learn → Build → Fail → Improve → Repeat ⚡                  ║
-║                                                                    ║
-║      "Every iteration makes the machine smarter."                  ║
-║                                                                    ║
-╚══════════════════════════════════════════════════════════════════════╝
+╠═════════════════════════════════════════════════════════════════════╣
+║                                                                     ║
+║      ⚡ Learn → Build → Fail → Improve → Repeat ⚡                 ║
+║                                                                     ║
+║      "Every iteration makes the machine smarter."                   ║
+║                                                                     ║
+╚═════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
