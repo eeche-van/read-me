@@ -71,8 +71,8 @@ For my SolidWorks designs, mechanical simulations, embedded systems, and robotic
 ║                                                                     ║
 ╚═════════════════════════════════════════════════════════════════════╝
 ```
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=eeche-van&style=for-the-badge)
 
-[![Ivan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](...)
+[![Ivan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eeche-van&theme=tokyo-night)](...)
 
 </div>
