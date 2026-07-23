@@ -36,7 +36,7 @@
 - Languages: Python, C, C#, C++ 
 - Tools: VS Code, SOLIDWORKS, MATLAB Code and Simulink, Arduino, GitHub
 
-## 🌟 Featured Coding-based Projects
+# 🌟 Featured Coding-based Projects
 ### 💻 Software & AI
 1. Breakout Game
 - Classic arcade game developed in Python to strengthen object-oriented programming and game logic.
