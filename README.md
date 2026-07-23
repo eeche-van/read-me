@@ -1,7 +1,12 @@
 # Hey there, I am Ivan!👋
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Building%20Tomorrow's%20Robots&fontSize=45&animation=fadeIn"/>
 <p align="center">
-  
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&repeat=true&width=850&lines=Engineering+intelligent+systems+that+bridge+mechanics%2C+electronics%2C+and+software."
+    alt="Engineering intelligent systems that bridge mechanics, electronics, and software."
+  />
+</p>
 🎓 Final Year Mechatronics Engineering Student @ Swinburne University of Technology Sarawak
 
 🤖 Passionate about Robotics, AI, Computer Vision, IoT, and Intelligent Systems 
@@ -28,8 +33,8 @@
 - 🚀 My dream is to contribute to future smart manufacturing and robotic technologies
 
 # 🛠️ Languages and Tools
-- Languages: Python ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), C , C#, C++ ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-- Tools: VS Code, SOLIDWORKS ![SolidWorks](https://img.shields.io/badge/SolidWorks-red?style=for-the-badge), MATLAB Code and Simulink ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge), Arduino, GitHub
+- Languages: Python, C, C#, C++ 
+- Tools: VS Code, SOLIDWORKS, MATLAB Code and Simulink, Arduino, GitHub
 
 ## 🌟 Featured Coding-based Projects
 ### 💻 Software & AI
