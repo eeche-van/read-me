@@ -37,6 +37,7 @@
 
 ### ⚙️ Mechanical & Robotics
 For my SolidWorks designs, mechanical simulations, embedded systems, and robotics projects:
+➡️ [Ivan's Digital Portfolio](https://eecheeyuan18.wixsite.com/ivandigitalsprofolio)
 
 ### 🔬 Upcoming Projects
 - Mechatronics System Design
