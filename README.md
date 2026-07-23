@@ -53,12 +53,12 @@ For my SolidWorks designs, mechanical simulations, embedded systems, and robotic
 
 ```text
 ╔═════════════════════════════════════════════════════════════════════╗
-║                        🤖 ENGINEERING CORE                          ║
+║                         🤖 ENGINEERING CORE                         ║
 ╠═════════════════════════════════════════════════════════════════════╣
 ║                                                                     ║
-║      ⚡ Learn → Build → Fail → Improve → Repeat ⚡                 ║
+║            ⚡ Learn → Build → Fail → Improve → Repeat ⚡           ║
 ║                                                                     ║
-║      "Every iteration makes the machine smarter."                   ║
+║             "Every iteration makes the machine smarter."            ║
 ║                                                                     ║
 ╚═════════════════════════════════════════════════════════════════════╝
 ```
