@@ -1,5 +1,5 @@
 # Hey there, I am Ivan!👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mechatronics+Engineer;Robotics+Enthusiast;AI+Explorer;Building+Smart+Systems&center=true&width=600&height=50)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Ivan%20Chew&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Mechatronics%20Engineer%20%7C%20Robotics%20%7C%20AI&descAlignY=58"/>
 
 🎓 Final Year Mechatronics Engineering Student at Swinburne University of Technology Sarawak
 🤖 Passionate about Robotics, AI, Computer Vision, IoT, and Intelligent Systems
@@ -29,18 +29,15 @@
 
 # 🛠️ Languages and Tools
 - Languages: Python, C, C#, C++
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-red?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - Tools: Solidworks, Matlab, Simulink, SOLIDWORKS, Github, VS Code
 
-# 🌟 Featured Projects
+# 🌟 Featured Coding-based Projects
 1. Defect Detection using OpenCV
 2. MQTT-Based Predictive Maintenance Dashboard
 3. Gearbox Design Project
+
+# For other practical hands-on projects, please refer to the personal portfolio here
+Ivan's Digital Portfolio
 
 # 📫 Connect With Me
 * LinkedIn: https://www.linkedin.com/in/ivanecy/ 
