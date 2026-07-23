@@ -33,7 +33,8 @@
 1. Defect Detection using OpenCV
 2. MQTT-Based Predictive Maintenance Dashboard
 
-# For other practical hands-on projects (embedded systems and mechanical etc.), please refer to the personal portfolio here
+### 📁 Other Engineering Projects
+For embedded systems, mechanical design, SolidWorks simulations, and other hands-on engineering projects, please visit my portfolio below.
 [Ivan's Digital Portfolio](https://eecheeyuan18.wixsite.com/ivandigitalsprofolio)
 
 # 📫 Connect With Me
