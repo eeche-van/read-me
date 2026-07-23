@@ -29,6 +29,12 @@
 
 # 🛠️ Languages and Tools
 - Languages: Python, C, C#, C++
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-red?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - Tools: Solidworks, Matlab, Simulink, SOLIDWORKS, Github, VS Code
 
 # 🌟 Featured Projects
