@@ -1,9 +1,7 @@
 # Hey there, I am Ivan!👋
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Building%20Tomorrow's%20Robots&fontSize=45&animation=fadeIn"/>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Engineering+intelligent+ systems+that+bridge+mechanics,+electronics,+and+software.
-"/>
-</p>
+  
 🎓 Final Year Mechatronics Engineering Student @ Swinburne University of Technology Sarawak
 
 🤖 Passionate about Robotics, AI, Computer Vision, IoT, and Intelligent Systems 
@@ -71,7 +69,3 @@ For my SolidWorks designs, mechanical simulations, embedded systems, and robotic
 ╚═════════════════════════════════════════════════════════════════════╝
 ```
 ![](https://komarev.com/ghpvc/?username=eeche-van&style=for-the-badge)
-
-[![Ivan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eeche-van&theme=tokyo-night)](...)
-
-</div>
