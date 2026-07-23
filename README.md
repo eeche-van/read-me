@@ -32,10 +32,9 @@
 # 🌟 Featured Coding-based Projects
 1. Defect Detection using OpenCV
 2. MQTT-Based Predictive Maintenance Dashboard
-3. Gearbox Design Project
 
-# For other practical hands-on projects, please refer to the personal portfolio here
-Ivan's Digital Portfolio
+# For other practical hands-on projects (embedded systems and mechanical etc.), please refer to the personal portfolio here
+Ivan's Digital Portfolio(https://eecheeyuan18.wixsite.com/ivandigitalsprofolio)
 
 # 📫 Connect With Me
 * LinkedIn: https://www.linkedin.com/in/ivanecy/ 
