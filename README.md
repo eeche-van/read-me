@@ -1,6 +1,5 @@
 # Hey there, I am Ivan!👋
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Ivan%20Chew&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Mechatronics%20Engineer%20%7C%20Robotics%20%7C%20AI&descAlignY=58"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Ivan%20Ee&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Mechatronics%20Engineer%20%7C%20Robotics%20%7C%20AI&descAlignY=58"/>
 🎓 Final Year Mechatronics Engineering Student at Swinburne University of Technology Sarawak
 🤖 Passionate about Robotics, AI, Computer Vision, IoT, and Intelligent Systems
 🚀 Turning engineering ideas into real-world projects
