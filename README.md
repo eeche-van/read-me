@@ -29,17 +29,38 @@
 - Languages: Python, C, C#, C++
 - Tools: Solidworks, Matlab, Simulink, SOLIDWORKS, Github, VS Code
 
-# 🌟 Featured Coding-based Projects
-1. Defect Detection using OpenCV
-2. MQTT-Based Predictive Maintenance Dashboard
+## 🌟 Featured Coding-based Projects
+### 💻 Software & AI
+- Breakout Game
+- Smart MQTT-based Predictive Maintenance Dashboard
+- Defect Detection using OpenCV
 
-### 📁 Other Engineering Projects
-For embedded systems, mechanical design, SolidWorks simulations, and other hands-on engineering projects, please visit my portfolio below.
-[Ivan's Digital Portfolio](https://eecheeyuan18.wixsite.com/ivandigitalsprofolio)
+### ⚙️ Mechanical & Robotics
+For my SolidWorks designs, mechanical simulations, embedded systems, and robotics projects:
+➡️ [Ivan's Digital Portfolio](https://eecheeyuan18.wixsite.com/ivandigitalsprofolio)
 
+### 🔬 Upcoming Projects
+- Mechatronics System Design
+- TBD FYP
+- More to come!
+ 
 # 📫 Connect With Me
 * LinkedIn: https://www.linkedin.com/in/ivanecy/ 
 * Email: eecheeyuan18@gmail.com
 * Strava: Ivan Ee (username)
 
-⚡⚡_Learn → Build → Fail → Improve → Repeat_⚡⚡ 
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                        🤖 ENGINEERING CORE                          ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                    ║
+║      ⚡ Learn → Build → Fail → Improve → Repeat ⚡                  ║
+║                                                                    ║
+║      "Every iteration makes the machine smarter."                  ║
+║                                                                    ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
