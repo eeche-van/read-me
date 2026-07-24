@@ -42,8 +42,6 @@
 - Classic arcade game developed in Python to strengthen object-oriented programming and game logic.
 2. Smart MQTT-based Predictive Maintenance Dashboard
 - Industrial IoT dashboard for monitoring machine health using MQTT communication.
-3. Defect Detection using OpenCV
-- Computer vision system for automated industrial defect detection using image processing and machine learning.
   
 ### ⚙️ Mechanical & Robotics
 For my SolidWorks designs, mechanical simulations, embedded systems, and robotics projects:
