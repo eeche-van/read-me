@@ -4,7 +4,7 @@
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=2000&color=00E5FF&center=true&vCenter=true&repeat=true&width=1000&lines=Engineering+intelligent+systems+that+bridge+mechanics%2C+electronics%2C+and+software."
-    alt="Engineering intelligent systems that bridge mechanics, electronics, and software."
+    alt="Engineering intelligent systems that bridge mechanics, electronics, and software"
   />
 </p>
 🎓 Final Year Mechatronics Engineering Student @ Swinburne University of Technology Sarawak
