@@ -39,7 +39,7 @@
 # 🌟 Featured Coding-based Projects
 ### 💻 Software & AI
 1. Breakout Game
-- Classic arcade game developed in Python to strengthen object-oriented programming and game logic.
+- Classic arcade game developed in C to strengthen C programming basics and game logic.
 2. Smart MQTT-based Predictive Maintenance Dashboard
 - Industrial IoT dashboard for monitoring machine health using MQTT communication.
   
